@@ -232,7 +232,7 @@ class SplashScreen3 extends StatelessWidget {
                             Row(
                               children: [
                                 Text(
-                                  "Oct 24, 2020",
+                                  "Oct 25, 2020",
                                   style: TextStyle(
                                       fontSize: 12,
                                       fontFamily: 'Poppins',
